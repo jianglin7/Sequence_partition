@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="1" />
+		<event>
+			<int key="case_id" value="1" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:05+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:05+00:00" />
+			<int key="@@index" value="0" />
+		</event>
+		<event>
+			<int key="case_id" value="1" />
+			<string key="activity" value="t2" />
+			<date key="timestamp" value="2023-11-19T14:38:06+00:00" />
+			<string key="concept:name" value="t2" />
+			<date key="time:timestamp" value="2023-11-19T14:38:06+00:00" />
+			<int key="@@index" value="1" />
+		</event>
+		<event>
+			<int key="case_id" value="1" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:38:07+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:38:07+00:00" />
+			<int key="@@index" value="2" />
+		</event>
+		<event>
+			<int key="case_id" value="1" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:08+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:08+00:00" />
+			<int key="@@index" value="3" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="10" />
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:39:24+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:39:24+00:00" />
+			<int key="@@index" value="4" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:25+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:25+00:00" />
+			<int key="@@index" value="5" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:39:26+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:39:26+00:00" />
+			<int key="@@index" value="6" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:27+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:27+00:00" />
+			<int key="@@index" value="7" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:39:28+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:39:28+00:00" />
+			<int key="@@index" value="8" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:29+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:29+00:00" />
+			<int key="@@index" value="9" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:30+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:30+00:00" />
+			<int key="@@index" value="10" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:31+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:31+00:00" />
+			<int key="@@index" value="11" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:32+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:32+00:00" />
+			<int key="@@index" value="12" />
+		</event>
+		<event>
+			<int key="case_id" value="10" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:39:33+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:39:33+00:00" />
+			<int key="@@index" value="13" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="11" />
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:39:34+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:39:34+00:00" />
+			<int key="@@index" value="14" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:39:35+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:39:35+00:00" />
+			<int key="@@index" value="15" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:36+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:36+00:00" />
+			<int key="@@index" value="16" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:37+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:37+00:00" />
+			<int key="@@index" value="17" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:39:38+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:39:38+00:00" />
+			<int key="@@index" value="18" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:39+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:39+00:00" />
+			<int key="@@index" value="19" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:40+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:40+00:00" />
+			<int key="@@index" value="20" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:41+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:41+00:00" />
+			<int key="@@index" value="21" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:42+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:42+00:00" />
+			<int key="@@index" value="22" />
+		</event>
+		<event>
+			<int key="case_id" value="11" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:39:43+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:39:43+00:00" />
+			<int key="@@index" value="23" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="12" />
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:39:44+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:39:44+00:00" />
+			<int key="@@index" value="24" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:39:45+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:39:45+00:00" />
+			<int key="@@index" value="25" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:46+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:46+00:00" />
+			<int key="@@index" value="26" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:47+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:47+00:00" />
+			<int key="@@index" value="27" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:39:48+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:39:48+00:00" />
+			<int key="@@index" value="28" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:49+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:49+00:00" />
+			<int key="@@index" value="29" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:50+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:50+00:00" />
+			<int key="@@index" value="30" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:51+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:51+00:00" />
+			<int key="@@index" value="31" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:52+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:52+00:00" />
+			<int key="@@index" value="32" />
+		</event>
+		<event>
+			<int key="case_id" value="12" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:39:53+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:39:53+00:00" />
+			<int key="@@index" value="33" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="13" />
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:39:54+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:39:54+00:00" />
+			<int key="@@index" value="34" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:39:55+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:39:55+00:00" />
+			<int key="@@index" value="35" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:56+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:56+00:00" />
+			<int key="@@index" value="36" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:57+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:57+00:00" />
+			<int key="@@index" value="37" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:39:58+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:39:58+00:00" />
+			<int key="@@index" value="38" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:59+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:59+00:00" />
+			<int key="@@index" value="39" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:00+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:00+00:00" />
+			<int key="@@index" value="40" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:01+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:01+00:00" />
+			<int key="@@index" value="41" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:02+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:02+00:00" />
+			<int key="@@index" value="42" />
+		</event>
+		<event>
+			<int key="case_id" value="13" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:40:03+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:40:03+00:00" />
+			<int key="@@index" value="43" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="14" />
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:40:04+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:40:04+00:00" />
+			<int key="@@index" value="44" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:40:05+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:40:05+00:00" />
+			<int key="@@index" value="45" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:06+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:06+00:00" />
+			<int key="@@index" value="46" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:07+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:07+00:00" />
+			<int key="@@index" value="47" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:40:08+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:40:08+00:00" />
+			<int key="@@index" value="48" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:09+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:09+00:00" />
+			<int key="@@index" value="49" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:10+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:10+00:00" />
+			<int key="@@index" value="50" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:11+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:11+00:00" />
+			<int key="@@index" value="51" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:12+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:12+00:00" />
+			<int key="@@index" value="52" />
+		</event>
+		<event>
+			<int key="case_id" value="14" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:40:13+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:40:13+00:00" />
+			<int key="@@index" value="53" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="15" />
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:40:14+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:40:14+00:00" />
+			<int key="@@index" value="54" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:15+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:15+00:00" />
+			<int key="@@index" value="55" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:40:16+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:40:16+00:00" />
+			<int key="@@index" value="56" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:17+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:17+00:00" />
+			<int key="@@index" value="57" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:40:18+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:40:18+00:00" />
+			<int key="@@index" value="58" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:19+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:19+00:00" />
+			<int key="@@index" value="59" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:20+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:20+00:00" />
+			<int key="@@index" value="60" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:21+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:21+00:00" />
+			<int key="@@index" value="61" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:22+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:22+00:00" />
+			<int key="@@index" value="62" />
+		</event>
+		<event>
+			<int key="case_id" value="15" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:40:23+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:40:23+00:00" />
+			<int key="@@index" value="63" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16" />
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:40:24+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:40:24+00:00" />
+			<int key="@@index" value="64" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:40:25+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:40:25+00:00" />
+			<int key="@@index" value="65" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:26+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:26+00:00" />
+			<int key="@@index" value="66" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:27+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:27+00:00" />
+			<int key="@@index" value="67" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:40:28+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:40:28+00:00" />
+			<int key="@@index" value="68" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:29+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:29+00:00" />
+			<int key="@@index" value="69" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:30+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:30+00:00" />
+			<int key="@@index" value="70" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:31+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:31+00:00" />
+			<int key="@@index" value="71" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:32+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:32+00:00" />
+			<int key="@@index" value="72" />
+		</event>
+		<event>
+			<int key="case_id" value="16" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:40:33+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:40:33+00:00" />
+			<int key="@@index" value="73" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="17" />
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:40:34+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:40:34+00:00" />
+			<int key="@@index" value="74" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:40:35+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:40:35+00:00" />
+			<int key="@@index" value="75" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:36+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:36+00:00" />
+			<int key="@@index" value="76" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:37+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:37+00:00" />
+			<int key="@@index" value="77" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:40:38+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:40:38+00:00" />
+			<int key="@@index" value="78" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:39+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:39+00:00" />
+			<int key="@@index" value="79" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:40+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:40+00:00" />
+			<int key="@@index" value="80" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:41+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:41+00:00" />
+			<int key="@@index" value="81" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:42+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:42+00:00" />
+			<int key="@@index" value="82" />
+		</event>
+		<event>
+			<int key="case_id" value="17" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:40:43+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:40:43+00:00" />
+			<int key="@@index" value="83" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="18" />
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:40:44+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:40:44+00:00" />
+			<int key="@@index" value="84" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:40:45+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:40:45+00:00" />
+			<int key="@@index" value="85" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:46+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:46+00:00" />
+			<int key="@@index" value="86" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:47+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:47+00:00" />
+			<int key="@@index" value="87" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:40:48+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:40:48+00:00" />
+			<int key="@@index" value="88" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:49+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:49+00:00" />
+			<int key="@@index" value="89" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:40:50+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:40:50+00:00" />
+			<int key="@@index" value="90" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:40:51+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:40:51+00:00" />
+			<int key="@@index" value="91" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:40:52+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:40:52+00:00" />
+			<int key="@@index" value="92" />
+		</event>
+		<event>
+			<int key="case_id" value="18" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:40:53+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:40:53+00:00" />
+			<int key="@@index" value="93" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="19" />
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:40:54+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:40:54+00:00" />
+			<int key="@@index" value="94" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:40:55+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:40:55+00:00" />
+			<int key="@@index" value="95" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:40:56+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:40:56+00:00" />
+			<int key="@@index" value="96" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:40:57+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:40:57+00:00" />
+			<int key="@@index" value="97" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:40:58+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:40:58+00:00" />
+			<int key="@@index" value="98" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:40:59+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:40:59+00:00" />
+			<int key="@@index" value="99" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:00+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:00+00:00" />
+			<int key="@@index" value="100" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:01+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:01+00:00" />
+			<int key="@@index" value="101" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:02+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:02+00:00" />
+			<int key="@@index" value="102" />
+		</event>
+		<event>
+			<int key="case_id" value="19" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:41:03+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:41:03+00:00" />
+			<int key="@@index" value="103" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2" />
+		<event>
+			<int key="case_id" value="2" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:09+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:09+00:00" />
+			<int key="@@index" value="104" />
+		</event>
+		<event>
+			<int key="case_id" value="2" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:10+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:10+00:00" />
+			<int key="@@index" value="105" />
+		</event>
+		<event>
+			<int key="case_id" value="2" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:38:11+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:38:11+00:00" />
+			<int key="@@index" value="106" />
+		</event>
+		<event>
+			<int key="case_id" value="2" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:38:12+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:38:12+00:00" />
+			<int key="@@index" value="107" />
+		</event>
+		<event>
+			<int key="case_id" value="2" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:38:13+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:38:13+00:00" />
+			<int key="@@index" value="108" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="20" />
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:41:04+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:41:04+00:00" />
+			<int key="@@index" value="109" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:41:05+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:41:05+00:00" />
+			<int key="@@index" value="110" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:06+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:06+00:00" />
+			<int key="@@index" value="111" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:07+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:07+00:00" />
+			<int key="@@index" value="112" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:41:08+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:41:08+00:00" />
+			<int key="@@index" value="113" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:09+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:09+00:00" />
+			<int key="@@index" value="114" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:10+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:10+00:00" />
+			<int key="@@index" value="115" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:11+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:11+00:00" />
+			<int key="@@index" value="116" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:12+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:12+00:00" />
+			<int key="@@index" value="117" />
+		</event>
+		<event>
+			<int key="case_id" value="20" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:41:13+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:41:13+00:00" />
+			<int key="@@index" value="118" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="21" />
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:41:14+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:41:14+00:00" />
+			<int key="@@index" value="119" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:41:15+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:41:15+00:00" />
+			<int key="@@index" value="120" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:16+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:16+00:00" />
+			<int key="@@index" value="121" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:17+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:17+00:00" />
+			<int key="@@index" value="122" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:41:18+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:41:18+00:00" />
+			<int key="@@index" value="123" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:19+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:19+00:00" />
+			<int key="@@index" value="124" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:20+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:20+00:00" />
+			<int key="@@index" value="125" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:21+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:21+00:00" />
+			<int key="@@index" value="126" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:22+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:22+00:00" />
+			<int key="@@index" value="127" />
+		</event>
+		<event>
+			<int key="case_id" value="21" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:41:23+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:41:23+00:00" />
+			<int key="@@index" value="128" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="22" />
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:41:24+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:41:24+00:00" />
+			<int key="@@index" value="129" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:41:25+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:41:25+00:00" />
+			<int key="@@index" value="130" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:26+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:26+00:00" />
+			<int key="@@index" value="131" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:27+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:27+00:00" />
+			<int key="@@index" value="132" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:41:28+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:41:28+00:00" />
+			<int key="@@index" value="133" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:29+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:29+00:00" />
+			<int key="@@index" value="134" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:30+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:30+00:00" />
+			<int key="@@index" value="135" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:31+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:31+00:00" />
+			<int key="@@index" value="136" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:32+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:32+00:00" />
+			<int key="@@index" value="137" />
+		</event>
+		<event>
+			<int key="case_id" value="22" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:41:33+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:41:33+00:00" />
+			<int key="@@index" value="138" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="23" />
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:41:34+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:41:34+00:00" />
+			<int key="@@index" value="139" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:41:35+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:41:35+00:00" />
+			<int key="@@index" value="140" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:36+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:36+00:00" />
+			<int key="@@index" value="141" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:37+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:37+00:00" />
+			<int key="@@index" value="142" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:41:38+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:41:38+00:00" />
+			<int key="@@index" value="143" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:39+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:39+00:00" />
+			<int key="@@index" value="144" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:40+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:40+00:00" />
+			<int key="@@index" value="145" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:41+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:41+00:00" />
+			<int key="@@index" value="146" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:42+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:42+00:00" />
+			<int key="@@index" value="147" />
+		</event>
+		<event>
+			<int key="case_id" value="23" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:41:43+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:41:43+00:00" />
+			<int key="@@index" value="148" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="24" />
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:41:44+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:41:44+00:00" />
+			<int key="@@index" value="149" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:41:45+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:41:45+00:00" />
+			<int key="@@index" value="150" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:46+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:46+00:00" />
+			<int key="@@index" value="151" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:47+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:47+00:00" />
+			<int key="@@index" value="152" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:41:48+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:41:48+00:00" />
+			<int key="@@index" value="153" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:49+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:49+00:00" />
+			<int key="@@index" value="154" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:41:50+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:41:50+00:00" />
+			<int key="@@index" value="155" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:41:51+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:41:51+00:00" />
+			<int key="@@index" value="156" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:41:52+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:41:52+00:00" />
+			<int key="@@index" value="157" />
+		</event>
+		<event>
+			<int key="case_id" value="24" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:41:53+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:41:53+00:00" />
+			<int key="@@index" value="158" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="25" />
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:41:54+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:41:54+00:00" />
+			<int key="@@index" value="159" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:41:55+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:41:55+00:00" />
+			<int key="@@index" value="160" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:41:56+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:41:56+00:00" />
+			<int key="@@index" value="161" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:41:57+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:41:57+00:00" />
+			<int key="@@index" value="162" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:41:58+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:41:58+00:00" />
+			<int key="@@index" value="163" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:41:59+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:41:59+00:00" />
+			<int key="@@index" value="164" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:00+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:00+00:00" />
+			<int key="@@index" value="165" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:01+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:01+00:00" />
+			<int key="@@index" value="166" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:02+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:02+00:00" />
+			<int key="@@index" value="167" />
+		</event>
+		<event>
+			<int key="case_id" value="25" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:42:03+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:42:03+00:00" />
+			<int key="@@index" value="168" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="26" />
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:42:04+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:42:04+00:00" />
+			<int key="@@index" value="169" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:42:05+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:42:05+00:00" />
+			<int key="@@index" value="170" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:06+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:06+00:00" />
+			<int key="@@index" value="171" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:07+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:07+00:00" />
+			<int key="@@index" value="172" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:42:08+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:42:08+00:00" />
+			<int key="@@index" value="173" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:42:09+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:42:09+00:00" />
+			<int key="@@index" value="174" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:10+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:10+00:00" />
+			<int key="@@index" value="175" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:11+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:11+00:00" />
+			<int key="@@index" value="176" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:12+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:12+00:00" />
+			<int key="@@index" value="177" />
+		</event>
+		<event>
+			<int key="case_id" value="26" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:42:13+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:42:13+00:00" />
+			<int key="@@index" value="178" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="27" />
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:42:14+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:42:14+00:00" />
+			<int key="@@index" value="179" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:42:15+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:42:15+00:00" />
+			<int key="@@index" value="180" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:16+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:16+00:00" />
+			<int key="@@index" value="181" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:17+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:17+00:00" />
+			<int key="@@index" value="182" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:42:18+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:42:18+00:00" />
+			<int key="@@index" value="183" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:42:19+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:42:19+00:00" />
+			<int key="@@index" value="184" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:20+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:20+00:00" />
+			<int key="@@index" value="185" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:21+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:21+00:00" />
+			<int key="@@index" value="186" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:22+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:22+00:00" />
+			<int key="@@index" value="187" />
+		</event>
+		<event>
+			<int key="case_id" value="27" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:42:23+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:42:23+00:00" />
+			<int key="@@index" value="188" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="28" />
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:42:24+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:42:24+00:00" />
+			<int key="@@index" value="189" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:42:25+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:42:25+00:00" />
+			<int key="@@index" value="190" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:26+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:26+00:00" />
+			<int key="@@index" value="191" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:27+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:27+00:00" />
+			<int key="@@index" value="192" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:42:28+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:42:28+00:00" />
+			<int key="@@index" value="193" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:42:29+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:42:29+00:00" />
+			<int key="@@index" value="194" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:30+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:30+00:00" />
+			<int key="@@index" value="195" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:31+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:31+00:00" />
+			<int key="@@index" value="196" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:32+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:32+00:00" />
+			<int key="@@index" value="197" />
+		</event>
+		<event>
+			<int key="case_id" value="28" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:42:33+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:42:33+00:00" />
+			<int key="@@index" value="198" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="29" />
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:42:34+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:42:34+00:00" />
+			<int key="@@index" value="199" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:42:35+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:42:35+00:00" />
+			<int key="@@index" value="200" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:36+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:36+00:00" />
+			<int key="@@index" value="201" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:37+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:37+00:00" />
+			<int key="@@index" value="202" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:42:38+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:42:38+00:00" />
+			<int key="@@index" value="203" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:42:39+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:42:39+00:00" />
+			<int key="@@index" value="204" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:40+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:40+00:00" />
+			<int key="@@index" value="205" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:41+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:41+00:00" />
+			<int key="@@index" value="206" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:42+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:42+00:00" />
+			<int key="@@index" value="207" />
+		</event>
+		<event>
+			<int key="case_id" value="29" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:42:43+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:42:43+00:00" />
+			<int key="@@index" value="208" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3" />
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:38:14+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:38:14+00:00" />
+			<int key="@@index" value="209" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:15+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:15+00:00" />
+			<int key="@@index" value="210" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:38:16+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:38:16+00:00" />
+			<int key="@@index" value="211" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:38:17+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:38:17+00:00" />
+			<int key="@@index" value="212" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:38:18+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:38:18+00:00" />
+			<int key="@@index" value="213" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:19+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:19+00:00" />
+			<int key="@@index" value="214" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:20+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:20+00:00" />
+			<int key="@@index" value="215" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:38:21+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:38:21+00:00" />
+			<int key="@@index" value="216" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:38:22+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:38:22+00:00" />
+			<int key="@@index" value="217" />
+		</event>
+		<event>
+			<int key="case_id" value="3" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:38:23+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:38:23+00:00" />
+			<int key="@@index" value="218" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="30" />
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:42:44+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:42:44+00:00" />
+			<int key="@@index" value="219" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:45+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:45+00:00" />
+			<int key="@@index" value="220" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:42:46+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:42:46+00:00" />
+			<int key="@@index" value="221" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:47+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:47+00:00" />
+			<int key="@@index" value="222" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:42:48+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:42:48+00:00" />
+			<int key="@@index" value="223" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:42:49+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:42:49+00:00" />
+			<int key="@@index" value="224" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:42:50+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:42:50+00:00" />
+			<int key="@@index" value="225" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:42:51+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:42:51+00:00" />
+			<int key="@@index" value="226" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:42:52+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:42:52+00:00" />
+			<int key="@@index" value="227" />
+		</event>
+		<event>
+			<int key="case_id" value="30" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:42:53+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:42:53+00:00" />
+			<int key="@@index" value="228" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="31" />
+		<event>
+			<int key="case_id" value="31" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:42:54+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:42:54+00:00" />
+			<int key="@@index" value="229" />
+		</event>
+		<event>
+			<int key="case_id" value="31" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:42:55+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:42:55+00:00" />
+			<int key="@@index" value="230" />
+		</event>
+		<event>
+			<int key="case_id" value="31" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:42:56+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:42:56+00:00" />
+			<int key="@@index" value="231" />
+		</event>
+		<event>
+			<int key="case_id" value="31" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:42:57+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:42:57+00:00" />
+			<int key="@@index" value="232" />
+		</event>
+		<event>
+			<int key="case_id" value="31" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:42:58+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:42:58+00:00" />
+			<int key="@@index" value="233" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4" />
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:38:24+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:38:24+00:00" />
+			<int key="@@index" value="234" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:25+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:25+00:00" />
+			<int key="@@index" value="235" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:38:26+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:38:26+00:00" />
+			<int key="@@index" value="236" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:38:27+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:38:27+00:00" />
+			<int key="@@index" value="237" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:38:28+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:38:28+00:00" />
+			<int key="@@index" value="238" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:29+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:29+00:00" />
+			<int key="@@index" value="239" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:30+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:30+00:00" />
+			<int key="@@index" value="240" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:38:31+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:38:31+00:00" />
+			<int key="@@index" value="241" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:38:32+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:38:32+00:00" />
+			<int key="@@index" value="242" />
+		</event>
+		<event>
+			<int key="case_id" value="4" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:38:33+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:38:33+00:00" />
+			<int key="@@index" value="243" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="5" />
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:38:34+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:38:34+00:00" />
+			<int key="@@index" value="244" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:38:35+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:38:35+00:00" />
+			<int key="@@index" value="245" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:36+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:36+00:00" />
+			<int key="@@index" value="246" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:38:37+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:38:37+00:00" />
+			<int key="@@index" value="247" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:38:38+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:38:38+00:00" />
+			<int key="@@index" value="248" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:39+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:39+00:00" />
+			<int key="@@index" value="249" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:40+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:40+00:00" />
+			<int key="@@index" value="250" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:38:41+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:38:41+00:00" />
+			<int key="@@index" value="251" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:38:42+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:38:42+00:00" />
+			<int key="@@index" value="252" />
+		</event>
+		<event>
+			<int key="case_id" value="5" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:38:43+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:38:43+00:00" />
+			<int key="@@index" value="253" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="6" />
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t9" />
+			<date key="timestamp" value="2023-11-19T14:38:44+00:00" />
+			<string key="concept:name" value="t9" />
+			<date key="time:timestamp" value="2023-11-19T14:38:44+00:00" />
+			<int key="@@index" value="254" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:45+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:45+00:00" />
+			<int key="@@index" value="255" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t10" />
+			<date key="timestamp" value="2023-11-19T14:38:46+00:00" />
+			<string key="concept:name" value="t10" />
+			<date key="time:timestamp" value="2023-11-19T14:38:46+00:00" />
+			<int key="@@index" value="256" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:38:47+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:38:47+00:00" />
+			<int key="@@index" value="257" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t12" />
+			<date key="timestamp" value="2023-11-19T14:38:48+00:00" />
+			<string key="concept:name" value="t12" />
+			<date key="time:timestamp" value="2023-11-19T14:38:48+00:00" />
+			<int key="@@index" value="258" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:49+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:49+00:00" />
+			<int key="@@index" value="259" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:38:50+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:38:50+00:00" />
+			<int key="@@index" value="260" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:38:51+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:38:51+00:00" />
+			<int key="@@index" value="261" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:38:52+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:38:52+00:00" />
+			<int key="@@index" value="262" />
+		</event>
+		<event>
+			<int key="case_id" value="6" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:38:53+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:38:53+00:00" />
+			<int key="@@index" value="263" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="7" />
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:38:54+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:38:54+00:00" />
+			<int key="@@index" value="264" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:38:55+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:38:55+00:00" />
+			<int key="@@index" value="265" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:38:56+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:38:56+00:00" />
+			<int key="@@index" value="266" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:38:57+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:38:57+00:00" />
+			<int key="@@index" value="267" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:38:58+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:38:58+00:00" />
+			<int key="@@index" value="268" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:38:59+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:38:59+00:00" />
+			<int key="@@index" value="269" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:00+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:00+00:00" />
+			<int key="@@index" value="270" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:01+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:01+00:00" />
+			<int key="@@index" value="271" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:02+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:02+00:00" />
+			<int key="@@index" value="272" />
+		</event>
+		<event>
+			<int key="case_id" value="7" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:39:03+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:39:03+00:00" />
+			<int key="@@index" value="273" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="8" />
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:39:04+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:39:04+00:00" />
+			<int key="@@index" value="274" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:39:05+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:39:05+00:00" />
+			<int key="@@index" value="275" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:06+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:06+00:00" />
+			<int key="@@index" value="276" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:07+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:07+00:00" />
+			<int key="@@index" value="277" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:39:08+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:39:08+00:00" />
+			<int key="@@index" value="278" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:09+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:09+00:00" />
+			<int key="@@index" value="279" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:10+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:10+00:00" />
+			<int key="@@index" value="280" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:11+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:11+00:00" />
+			<int key="@@index" value="281" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:12+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:12+00:00" />
+			<int key="@@index" value="282" />
+		</event>
+		<event>
+			<int key="case_id" value="8" />
+			<string key="activity" value="t3" />
+			<date key="timestamp" value="2023-11-19T14:39:13+00:00" />
+			<string key="concept:name" value="t3" />
+			<date key="time:timestamp" value="2023-11-19T14:39:13+00:00" />
+			<int key="@@index" value="283" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="9" />
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t13" />
+			<date key="timestamp" value="2023-11-19T14:39:14+00:00" />
+			<string key="concept:name" value="t13" />
+			<date key="time:timestamp" value="2023-11-19T14:39:14+00:00" />
+			<int key="@@index" value="284" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t14" />
+			<date key="timestamp" value="2023-11-19T14:39:15+00:00" />
+			<string key="concept:name" value="t14" />
+			<date key="time:timestamp" value="2023-11-19T14:39:15+00:00" />
+			<int key="@@index" value="285" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t4" />
+			<date key="timestamp" value="2023-11-19T14:39:16+00:00" />
+			<string key="concept:name" value="t4" />
+			<date key="time:timestamp" value="2023-11-19T14:39:16+00:00" />
+			<int key="@@index" value="286" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t11" />
+			<date key="timestamp" value="2023-11-19T14:39:17+00:00" />
+			<string key="concept:name" value="t11" />
+			<date key="time:timestamp" value="2023-11-19T14:39:17+00:00" />
+			<int key="@@index" value="287" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t15" />
+			<date key="timestamp" value="2023-11-19T14:39:18+00:00" />
+			<string key="concept:name" value="t15" />
+			<date key="time:timestamp" value="2023-11-19T14:39:18+00:00" />
+			<int key="@@index" value="288" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t5" />
+			<date key="timestamp" value="2023-11-19T14:39:19+00:00" />
+			<string key="concept:name" value="t5" />
+			<date key="time:timestamp" value="2023-11-19T14:39:19+00:00" />
+			<int key="@@index" value="289" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t1" />
+			<date key="timestamp" value="2023-11-19T14:39:20+00:00" />
+			<string key="concept:name" value="t1" />
+			<date key="time:timestamp" value="2023-11-19T14:39:20+00:00" />
+			<int key="@@index" value="290" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t6" />
+			<date key="timestamp" value="2023-11-19T14:39:21+00:00" />
+			<string key="concept:name" value="t6" />
+			<date key="time:timestamp" value="2023-11-19T14:39:21+00:00" />
+			<int key="@@index" value="291" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t7" />
+			<date key="timestamp" value="2023-11-19T14:39:22+00:00" />
+			<string key="concept:name" value="t7" />
+			<date key="time:timestamp" value="2023-11-19T14:39:22+00:00" />
+			<int key="@@index" value="292" />
+		</event>
+		<event>
+			<int key="case_id" value="9" />
+			<string key="activity" value="t8" />
+			<date key="timestamp" value="2023-11-19T14:39:23+00:00" />
+			<string key="concept:name" value="t8" />
+			<date key="time:timestamp" value="2023-11-19T14:39:23+00:00" />
+			<int key="@@index" value="293" />
+		</event>
+	</trace>
+</log>
