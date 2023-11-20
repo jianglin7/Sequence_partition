@@ -236,6 +236,7 @@ if __name__ == '__main__':
     tbr_precision = pm4py.precision_token_based_replay(log, net, init, final)
     print(f"av_precision: {tbr_precision}")
 
+    ####
     f_measure = 2 * (av_firness * tbr_precision) / (av_firness + tbr_precision)
     print(f"F-measure: {f_measure}")
 
